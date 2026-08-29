@@ -8,3 +8,5 @@
 - Visual Studio Color Theme
 - Wine Red Metallic Studio(https://marketplace.visualstudio.com/items?itemName=PhantomNightmare.WineRedMetallicStudio)
 - Wine Red Metallic Studio Developer: Phantom Nightmare / Development Support: ChatGPT
+- DeepCiderStudio(https://marketplace.visualstudio.com/items?itemName=PhantomNightmare.DeepCiderStudio)
+- DeepCiderStudio Developer: Phantom Nightmare / Development Support: ChatGPT
