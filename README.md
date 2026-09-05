@@ -7,9 +7,9 @@
 - Deep Cider Developer: Phantom Nightmare / Development Support: (ChatGPT)
 - Visual Studio Color Theme
 - Wine Red Metallic Studio(https://marketplace.visualstudio.com/items?itemName=PhantomNightmare.WineRedMetallicStudio)
-- Wine Red Metallic Studio Developer: Phantom Nightmare / Development Support: ChatGPT
+- Wine Red Metallic Studio Developer: Phantom Nightmare / Development Support: (ChatGPT)
 - DeepCiderStudio(https://marketplace.visualstudio.com/items?itemName=PhantomNightmare.DeepCiderStudio)
-- DeepCiderStudio Developer: Phantom Nightmare / Development Support: ChatGPT
+- DeepCiderStudio Developer: Phantom Nightmare / Development Support: (ChatGPT)
 -  Microsoft Store 
 - Blue_Calculator(https://apps.microsoft.com/detail/9NXFKST0SWFZ?hl=neutral&gl=JP&ocid=pdpshare)
 - Blue_Calculator Developer: Phantom Nightmare / Development Support: (ChatGPT)
