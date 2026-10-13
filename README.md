@@ -17,3 +17,5 @@
 - Ice_Converter Developer: Phantom Nightmare / Development Support: (ChatGPT)
 - Cold_QR(https://apps.microsoft.com/detail/9N0LWK861FQQ?hl=neutral&gl=JP&ocid=pdpshare)
 - Developer: Phantom Nightmare / Development Support: ChatGPT / Development Agent: Normal Agent VELKRIS
+- Aqua_Recorder(https://apps.microsoft.com/detail/9N91Z28LH0TN?hl=neutral&gl=JP&ocid=pdpshare)
+- Developer: Phantom Nightmare / Development Support: ChatGPT / Development Agent: Single-Star Agent ★Hercules
